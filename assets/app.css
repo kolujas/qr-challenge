@@ -76,10 +76,6 @@ img {
   background-color: hsl(218, 44%, 22%) 
 }
 
-@media screen {
-  
-}
-
 /* Para tablets */
 @media (min-width: 481px) and (max-width: 1024px) {
   .container {
