@@ -1,42 +1,29 @@
-# QR Code Component Challenge
+# QR Code Component Challenge - Frontend Mentor
 
-This is my solution to the **QR Code Component** challenge. It’s part of my journey to improve my frontend skills and get comfortable with HTML and CSS from scratch.
+This is my Frontend Mentor challenge to build a responsive QR code component. It helped me sharpen my skills in mobile design and Flexbox layout.
 
-## 🚀 Overview
+## 📸 Preview
 
-### Screenshot
+![Project Preview](img/screenshot.jpg)
 
-![Screenshot](img/screenshot.jpg)
+## 🔗 Links
 
-### Links
+- **Live Site:** [qr-code-component-challenge-blush.vercel.app](https://qr-code-component-challenge-blush.vercel.app)
 
-- Live Site URL: [https://yourusername.github.io/project-folder](https://yourusername.github.io/project-folder)
+## 🛠️ Technologies Used
 
-## 💻 My process
+- 🧱 HTML5  
+- 🎨 CSS3  
+- 📱 Flexbox
+- 📱 Grid
+- 📱 Media Queries  
 
-### Built with
+## 🧠 What I Learned
 
-- Semantic HTML5 markup
-- Modern CSS (Flexbox, Media Queries)
-- Mobile-first workflow
+- Using REM units for scalable sizing.  
+- Centering elements with Flexbox.  
+- Writing reusable classes with a mobile-first approach.
 
-### What I learned
+## 🚀 Ongoing Development
 
-This challenge helped me solidify the basics of:
-
-- Using REM units for responsive design
-- Centering elements with Flexbox
-- Writing clean, reusable utility classes
-- Working with media queries
-
-### Continued development
-
-I want to keep improving my layouts and responsive designs. I’ll move next to more complex components and layouts.
-
-## Author
-
-- GitHub: https://github.com/kolujAs
-
----
-
-Feel free to use it or adapt it as inspiration!
+Working on improving accessibility and optimizing performance for future versions.
