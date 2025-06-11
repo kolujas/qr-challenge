@@ -10,7 +10,7 @@ This is my solution to the **QR Code Component** challenge. It’s part of my jo
 
 ### Links
 
-- Live Site URL: [https://yourusername.github.io/project-folder](https://yourusername.github.io/project-folder)
+- Live Site URL: https://qr-code-component-challenge-blush.vercel.app
 
 ## 💻 My process
 
