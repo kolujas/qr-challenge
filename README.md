@@ -6,7 +6,7 @@ This is my solution to the **QR Code Component** challenge. It’s part of my jo
 
 ### Screenshot
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](/images/screenshot.png)
 
 ### Links
 
