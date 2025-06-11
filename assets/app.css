@@ -1,0 +1,97 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /** 1 rem = 10px **/
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  height: 100%;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container{
+  padding: 2rem;
+  background-color: #fff;
+  margin: 0 5rem;
+  border-radius: 2rem;
+  box-shadow: 0 1rem 2rem rgba(0,0,0,0.1);
+}
+
+.container h1{
+  font-size: 2rem;
+}
+
+.container h1, .container p{
+  padding: 0 2rem;
+}
+
+.container p{
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+img {
+  width: 100%;
+  border-radius: 1rem;
+}
+
+/* Utils */
+
+.slate-300{
+  color: hsl(212, 45%, 89%);
+}
+
+.slate-500{
+  color: hsl(216, 15%, 48%);
+}
+
+.slate-900{
+  color: hsl(218, 44%, 22%); 
+}
+
+/* Background color */
+
+.bg-slate-300{
+  background-color: hsl(212, 45%, 89%);
+}
+
+.bg-slate-500{
+  background-color: hsl(216, 15%, 48%);
+}
+
+.bg-slate-900{
+  background-color: hsl(218, 44%, 22%) 
+}
+
+@media screen {
+  
+}
+
+/* Para tablets */
+@media (min-width: 481px) and (max-width: 1024px) {
+  .container {
+  max-width: 35rem;
+  margin: 0 auto;
+}
+}
+
+/* Para escritorio */
+@media (min-width: 1025px) {
+  .container {
+  max-width: 35rem;
+  margin: 0 auto;
+}
+}
